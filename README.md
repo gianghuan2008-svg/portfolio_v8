@@ -13,8 +13,7 @@ kỹ năng, các dự án đã thực hiện và thông tin liên hệ.
 - Responsive Design
 
 ## 3. Demo
-https://TEN-GITHUB.github.io/TEN-REPOSITORY/
-
+https://gianghuan2008-svg.github.io/portfolio_v8/
 ## 4. Cách mở website
 1. Mở trình duyệt Google Chrome.
 2. Truy cập đường dẫn Demo ở trên.
